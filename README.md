@@ -2,4 +2,4 @@
 Test repository
 
 Trying GitHub!
-Will use hear to practice Python or C++.
+Will use here to practice Python or C++.
